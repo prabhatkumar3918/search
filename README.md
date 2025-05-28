@@ -1,6 +1,6 @@
 # search
 to run the files follow the following steps
-
+clone this repo using git clone <>
 pip install -r requirement.txt
 
 create a .env file and input these details
