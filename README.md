@@ -2,6 +2,7 @@
 to run the files follow the following steps
 
 pip install -r requirements.txt
+
 create a .env file and input these details
 
 TRAVILY_API_KEY="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"
